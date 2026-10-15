@@ -36,3 +36,13 @@ Open `build/demo/dashboard.html` for a standalone HTML visualization or explore 
 | [Python source](src/operational_incident_intelligence/core.py) | Generation and auditability |
 
 Built for Melissa Castro's public engineering portfolio. Independent synthetic code; no company or customer materials. MIT license.
+
+## Explore the interactive portfolio dashboard
+
+[**Open Incident Intelligence interactive demo →**](https://dicureck.github.io/?demo=incidents#lab)
+
+[Read the engineering case study →](https://github.com/Dicureck/Dicureck/blob/main/case-studies/incidents.md)
+
+The interactive portfolio view uses **its own independently generated, deterministic fictional sample**. It is an exploration companion—not the same dataset as this repository and not a claim of cross-project reconciliation. Filter records, inspect metrics and export synthetic CSV directly in your browser.
+
+**Publication note:** native Power BI / Tableau integrations are methodology examples until runnable native artifacts and independent tool validation are published. See the [BI calculation examples](https://github.com/Dicureck/Dicureck/blob/main/knowledge-base/bi-examples.md).
